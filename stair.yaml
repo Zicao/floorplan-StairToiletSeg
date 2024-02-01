@@ -1,0 +1,6 @@
+train: /kaggle/working/ultralytics/mydata/images/train  
+val: /kaggle/working/ultralytics/mydata/images/val
+
+# Classes
+nc: 2  # number of classes
+names: ['StairRoom','ToiletRoom']  # class names
